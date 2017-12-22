@@ -121,15 +121,6 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="btnEigth" destination="Hsp-UF-nl9" id="5qZ-du-N6n"/>
-                        <outlet property="btnFifth" destination="Bce-Y1-ABz" id="GZr-w4-gdZ"/>
-                        <outlet property="btnFirst" destination="vF9-3T-By8" id="d9g-g6-IHS"/>
-                        <outlet property="btnForth" destination="VFu-yg-UAv" id="3ar-xw-6gq"/>
-                        <outlet property="btnNinth" destination="mee-HO-dgX" id="SQD-y7-BAz"/>
-                        <outlet property="btnSecond" destination="uHm-WG-lnj" id="vdG-dV-6rJ"/>
-                        <outlet property="btnSeventh" destination="QGD-RR-cbt" id="hWV-UZ-KS1"/>
-                        <outlet property="btnSixth" destination="Ag6-rz-Esg" id="Xnv-db-XMd"/>
-                        <outlet property="btnThird" destination="29G-ML-3uq" id="LDT-T7-08X"/>
                         <outlet property="lbl_result" destination="xtc-uD-l0T" id="ltL-fk-aRd"/>
                     </connections>
                 </viewController>
